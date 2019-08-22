@@ -1,0 +1,28 @@
+{
+    "name": "rusht-dateutils",
+    "version": "0.0.1",
+    "description": "Just some Date Formatting, with some of date-fns",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/RUSHt/date-utils.git"
+    },
+    "dependencies": {
+        "date-fns-timezone": "*",
+        "date-fns": "*"
+    },
+    "keywords": [
+      "RUSHt",
+      "date-utils"
+    ],
+    "author": "RUSHt",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/RUSHt/date-utils/issues"
+    },
+    "homepage": "https://github.com/RUSHt/date-utils#readme"
+  }
+  
